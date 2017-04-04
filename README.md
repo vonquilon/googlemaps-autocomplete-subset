@@ -1,1 +1,2 @@
 # googlemaps-autocomplete-subset
+This repo showcases one of the ways Place Autocomplete can be used. More info about this API can be found here: https://developers.google.com/maps/documentation/javascript/places-autocomplete
